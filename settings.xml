@@ -11,18 +11,18 @@
     </server>
     <server>
       <id>${RELEASE-REPO}</id>
-      <username>${NEXUS-USER}</username>
-      <password>${NEXUS-PASS}</password>
+      <username>$asaah</username>
+      <password>$asaah</password>
     </server>
         <server>
         <id>{CENTRAL-REPO}</id>
-      <username>${NEXUS-USER}</username>
-      <password>${NEXUS-PASS}</password>
+      <username>$asaah</username>
+      <password>$asaah</password>
     </server>
     <server>
         <id>{NEXUS-GRP-REPO}</id>
-      <username>${NEXUS-USER}</username>
-      <password>${NEXUS-PASS}</password>
+      <username>$asaah</username>
+      <password>$asaah</password>
     </server>
   </servers>
 
