@@ -6,23 +6,23 @@
   <servers>
     <server>
       <id>${SNAP-REPO}</id>
-      <username>${NEXUS-USER}</username>
-      <password>${NEXUS-PASS}</password>
+      <username>$admin</username>
+      <password>$admin</password>
     </server>
     <server>
       <id>${RELEASE-REPO}</id>
-      <username>$asaah</username>
-      <password>$asaah</password>
+      <username>$admin</username>
+      <password>$admin</password>
     </server>
         <server>
         <id>{CENTRAL-REPO}</id>
-      <username>$asaah</username>
-      <password>$asaah</password>
+      <username>$admin</username>
+      <password>$admin</password>
     </server>
     <server>
         <id>{NEXUS-GRP-REPO}</id>
-      <username>$asaah</username>
-      <password>$asaah</password>
+      <username>$admin</username>
+      <password>$admin</password>
     </server>
   </servers>
 
